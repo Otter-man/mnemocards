@@ -45,7 +45,7 @@ docutils==0.16
     # via sphinx
 frozendict==1.2
     # via genanki
-git+https://github.com/guiferviz/genanki.git@feature-deck-conf
+git+https://github.com/Otter-man/genanki.git@original_repo
     # via -r requirements.in
 googletrans==3.1.0a0
     # via -r requirements.in

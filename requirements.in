@@ -1,5 +1,6 @@
-# My own version of genanki with support to deck configurations.
-genanki @ git+https://github.com/guiferviz/genanki.git@feature-deck-conf
+# guiferviz version of genanki with support to deck configurations and updated 
+# to genanki 0.11.0
+genanki @ git+https://github.com/Otter-man/genanki.git@original_repo
 
 gTTS
 iso-639
